@@ -1,0 +1,301 @@
+id,title,author,authoryearofbirth,authoryearofdeath,language,downloads,subjects
+PG10000,The Magna Carta,Anonymous,,,['en'],147,"{'Magna Carta', 'Constitutional history -- England -- Sources'}"
+PG10003,"My First Years as a Frenchwoman, 1876-1879","Waddington, Mary King",1833,1923,['en'],13,"{'France -- Social life and customs', 'France -- History -- Third Republic, 1870-1940'}"
+PG10009,"Wild Northern Scenes; Or, Sporting Adventures with the Rifle and the Rod","Hammond, S. H. (Samuel H.)",1809,1878,['en'],8,"{'Hunting -- New York (State)', 'Fishing -- New York (State)'}"
+PG10011,365 Foreign Dishes: A Foreign Dish for Every Day in the Year,Unknown,,,['en'],103,{'Cooking'}
+PG10012,The Mountains of California,"Muir, John",1838,1914,['en'],148,"{'Naturalists -- United States -- Biography', 'Natural history -- California', 'Natural history -- Sierra Nevada (Calif. and Nev.)', 'Mountain ecology -- California', 'Mountain ecology -- Sierra Nevada (Calif. and Nev.)', 'Muir, John, 1838-1914 -- Travel -- Sierra Nevada (Calif. and Nev.)', 'California -- Description and travel', 'Sierra Nevada (Calif. and Nev.)'}"
+PG10022,White Queen of the Cannibals: the Story of Mary Slessor of Calabar,"Bueltmann, A. J.",,,['en'],15,"{'Missions -- Nigeria', 'Slessor, Mary Mitchell, 1848-1915', 'Missionaries -- Nigeria -- Biography'}"
+PG10028,Spalding's Official Baseball Guide - 1913,,,,['en'],19,{'Baseball'}
+PG10030,"The Life of Hon. William F. Cody, Known as Buffalo Bill, the Famous Hunter, Scout and Guide: An Autobiography",Buffalo Bill,1846,1917,['en'],16,"{'Scouts (Reconnaissance) -- West (U.S.) -- Biography', 'Pioneers -- West (U.S.) -- Biography', 'Buffalo Bill, 1846-1917', 'Frontier and pioneer life -- West (U.S.)'}"
+PG10042,The Child Under Eight,"Murray, E. R. (Elsie Riach)",1861,1932,['en'],5,"{'Education', 'Child psychology', 'Child development'}"
+PG10043,Klondyke Nuggets: A Brief Description of the Great Gold Regions in the Northwest,"Ladue, Joseph",1855,1900,['en'],13,"{'Alaska -- Gold discoveries', 'Klondike River Valley (Yukon) -- Gold discoveries'}"
+PG10044,The Father of British Canada: a Chronicle of Carleton,"Wood, William",1864,1947,['en'],6,"{'Canada -- History -- 1775-1783', 'Canada -- History -- 1763-1867', 'Dorchester, Guy Carleton, Baron, 1724-1808'}"
+PG10060,Discourses: Biological & Geological: Essays,"Huxley, Thomas Henry",1825,1895,['en'],11,"{'Geology', 'Biology'}"
+PG10063,Happiness and Marriage,"Towne, Elizabeth",1865,1960,['en'],28,{'Marriage'}
+PG10065,"The Constitution of the United States: A Brief Study of the Genesis, Formulation and Political Philosophy of the Constitution","Beck, James M. (James Montgomery)",1861,1936,['en'],68,"{'United States. Constitution', 'Constitutional law -- United States'}"
+PG10071,By-Ways of Bombay,"Edwardes, S. M. (Stephen Meredyth)",1873,1927,['en'],7,{'Bombay (India) -- Social life and customs'}
+PG10072,English Housewifry: Exemplified in above Four Hundred and Fifty Receipts Giving Directions for most Parts of Cookery,"Moxon, Elizabeth",,,['en'],68,"{'Menus -- Early works to 1800', 'Cooking, English -- Early works to 1800'}"
+PG10073,The Century Vocabulary Builder,"Bachelor, Joseph M. (Joseph Morris)",1889,1947,['en'],45,{'Vocabulary'}
+PG10075,"A Narrative of the Life and Adventures of Venture, a Native of Africa, but Resident above Sixty Years in the United States of America, Related by Himself","Smith, Venture",,1805,['en'],95,{'Slavery -- Connecticut'}
+PG10080,Mobilizing Woman-Power,"Blatch, Harriot Stanton",1856,1940,['en'],26,"{'World War, 1914-1918 -- Women'}"
+PG10090,Peaceless Europe,"Nitti, Francesco Saverio",1868,1953,['en'],21,"{'World War, 1914-1918 -- Treaties', 'World War, 1914-1918 -- Reparations'}"
+PG10128,"The Great Events by Famous Historians, Volume 17",,,,['en'],23,{'World history'}
+PG10136,The Book of Household Management,"Beeton, Mrs. (Isabella Mary)",1836,1865,['en'],596,"{'Cooking, English', 'Home economics'}"
+PG10151,"The Great Events by Famous Historians, Volume 05: (From Charlemagne to Frederick Barbarossa)",,,,['en'],35,{'World history'}
+PG10163,"Mohammedanism: Lectures on Its Origin, Its Religious and Political Growth, and Its Present State","Snouck Hurgronje, C. (Christiaan)",1857,1936,['en'],31,{'Islam'}
+PG1017,The Soul of Man under Socialism,"Wilde, Oscar",1854,1900,['en'],312,{'Socialism'}
+PG10266,The Glands Regulating Personality: A Study of the Glands of Internal Secretion in Relation to the Types of Human Nature,"Berman, Louis",1893,1946,['en'],16,"{'Personality', 'Endocrinology'}"
+PG10291,In the Fourth Year: Anticipations of a World Peace,"Wells, H. G. (Herbert George)",1866,1946,['en'],24,"{'World War, 1914-1918 -- Peace', 'Democracy', 'League of Nations'}"
+PG10335,Children's Rights: A Book of Nursery Logic,"Wiggin, Kate Douglas Smith",1856,1923,['en'],21,"{'Child rearing', ""Children's rights"", 'Children'}"
+PG10362,Sketches of the East Africa Campaign,"Dolbey, Robert Valentine",1878,1937,['en'],22,"{'World War, 1914-1918 -- Hospitals', 'World War, 1914-1918 -- Personal narratives', 'World War, 1914-1918 -- Campaigns -- Africa, East'}"
+PG10366,Freedom's Battle: Being a Comprehensive Collection of Writings and Speeches on the Present Situation,"Gandhi, Mahatma",1869,1948,['en'],136,"{'India -- Politics and government -- 1919-1947', 'Nonviolence', 'British -- India'}"
+PG10393,Making the House a Home,"Guest, Edgar A. (Edgar Albert)",1881,1959,['en'],20,"{'Family', 'Home'}"
+PG10401,"Personal Memoir of Daniel Drayton, for Four Years and Four Months a Prisoner (for Charity's Sake) in Washington Jail: Including a Narrative of the Voyage and Capture of the Schooner Pearl","Drayton, Daniel",1802,1857,['en'],3,"{'Fugitive slaves -- Legal status, laws, etc. -- Maryland', 'Trials -- Washington (D.C.)', 'Drayton, Daniel, 1802-1857 -- Trials, litigation, etc.', 'Abolitionists -- United States -- Biography'}"
+PG10427,Scientific Essays and Lectures,"Kingsley, Charles",1819,1875,['en'],18,{'Science'}
+PG1043,The Story of Evolution,"McCabe, Joseph",1867,1955,['en'],31,"{'Geology', 'Evolution (Biology)', 'Paleontology'}"
+PG10453,A Practical Physiology: A Text-Book for Higher Schools,"Blaisdell, Albert F. (Albert Franklin)",1847,1927,['en'],171,"{'Human physiology', 'Physiology'}"
+PG10459,The Celtic Twilight,"Yeats, W. B. (William Butler)",1865,1939,['en'],214,"{'Yeats, W. B. (William Butler), 1865-1939 -- Childhood and youth', 'Yeats, W. B. (William Butler), 1865-1939 -- Homes and haunts -- Ireland -- Sligo (County)', 'Tales -- Ireland -- Sligo (County)', 'Mythology, Celtic -- Ireland -- Sligo (County)', 'Folklore -- Ireland -- Sligo (County)', 'Poets, Irish -- Homes and haunts -- Ireland -- Sligo (County)', 'Poets, Irish -- 19th century -- Biography', 'Sligo (Ireland : County) -- Social life and customs'}"
+PG10482,The Young Mother: Management of Children in Regard to Health,"Alcott, William A. (William Andrus)",1798,1859,['en'],7,{'Children -- Health and hygiene'}
+PG10484,"Beacon Lights of History, Volume 03: Ancient Achievements","Lord, John",1810,1894,['en'],27,{'History'}
+PG10516,Bits about Home Matters,"Jackson, Helen Hunt",1830,1885,['en'],32,{'Home'}
+PG10520,"The Compleat Cook: Expertly Prescribing the Most Ready Wayes, Whether Italian,; Spanish or French, for Dressing of Flesh and Fish, Ordering; Of Sauces or Making of Pastry",W. M.,,,['en'],70,"{'Cookbooks', 'Cooking -- Early works to 1800'}"
+PG10531,"Beacon Lights of History, Volume 05: The Middle Ages","Lord, John",1810,1894,['en'],34,{'History'}
+PG10532,"Beacon Lights of History, Volume 06: Renaissance and Reformation","Lord, John",1810,1894,['en'],33,{'History'}
+PG10533,"Beacon Lights of History, Volume 07: Great Women","Lord, John",1810,1894,['en'],27,{'History'}
+PG10627,"Beacon Lights of History, Volume 08: Great Rulers","Lord, John",1810,1894,['en'],15,{'History'}
+PG10647,"Beacon Lights of History, Volume 12: American Leaders","Lord, John",1810,1894,['en'],20,"{'United States -- Biography', 'History'}"
+PG10648,"Beacon Lights of History, Volume 13: Great Writers: Dr Lord's Uncompleted Plan, Supplemented with Essays by Emerson, Macaulay, Hedge, and Mercer Adam","Lord, John",1810,1894,['en'],30,{'History'}
+PG10649,"Beacon Lights of History, Volume 14: The New Era: A Supplementary Volume, by Recent Writers, as Set Forth in the Preface and Table of Contents","Lord, John",1810,1894,['en'],13,{'History'}
+PG10655,Autobiography of Sir George Biddell Airy,"Airy, George Biddell",1801,1892,['en'],19,"{'Autobiographies', 'Astronomers -- Great Britain -- Biography', 'Airy, George Biddell, 1801-1892', 'Royal Greenwich Observatory'}"
+PG1066,William the Conqueror,"Freeman, Edward A. (Edward Augustus)",1823,1892,['en'],69,"{'Great Britain -- Kings and rulers -- Biography', 'Great Britain -- History -- William I, 1066-1087', 'William I, King of England, 1027 or 8-1087', 'Normans -- Great Britain -- Biography'}"
+PG10674,How to Use Your Mind: A Psychology of Study: Being a Manual for the Use of Students and Teachers in the Administration of Supervised Study,"Kitson, Harry Dexter",1886,1959,['en'],52,{'Study skills'}
+PG1067,Personal Memoirs of U. S. Grant — Volume 1,"Grant, Ulysses S. (Ulysses Simpson)",1822,1885,['en'],28,"{'Grant, Ulysses S. (Ulysses Simpson), 1822-1885', 'Generals -- United States -- Biography', 'Mexican War, 1846-1848 -- Personal narratives', 'United States. Army -- Biography', 'Presidents -- United States -- Biography', 'United States -- History -- Civil War, 1861-1865 -- Campaigns'}"
+PG10684,A History of Freedom of Thought,"Bury, J. B. (John Bagnell)",1861,1927,['en'],129,"{'Rationalism -- History', 'Free thought -- History'}"
+PG10692,A Life of Gen. Robert E. Lee,"Cooke, John Esten",1830,1886,['en'],22,"{'United States -- History -- Civil War, 1861-1865 -- Biography', 'Generals -- Confederate States of America -- Biography', 'Lee, Robert E. (Robert Edward), 1807-1870', 'United States -- History -- Civil War, 1861-1865 -- Campaigns', 'Confederate States of America. Army -- Officers -- Biography'}"
+PG10725,The Centralia Conspiracy,"Chaplin, Ralph",1887,1961,['en'],15,"{'Lumber trade -- Washington (State)', 'Industrial Workers of the World', 'Centralia Massacre, Centralia, Wash., 1919'}"
+PG10731,The Essays of Arthur Schopenhauer; the Art of Controversy,"Schopenhauer, Arthur",1788,1860,['en'],176,"{'Debates and debating', 'Logic'}"
+PG10732,The Essays of Arthur Schopenhauer; Studies in Pessimism,"Schopenhauer, Arthur",1788,1860,['en'],726,{'Pessimism'}
+PG10739,The Essays of Arthur Schopenhauer; On Human Nature,"Schopenhauer, Arthur",1788,1860,['en'],296,"{'Political science', 'Ethics'}"
+PG10733,Studies in Civics,"McCleary, J. T. (James Thompson)",1853,1924,['en'],15,"{'United States -- Politics and government -- Handbooks, manuals, etc.'}"
+PG1082,"Voyage of the Paper Canoe: A Geographical Journey of 2500 Miles, from Quebec to the Gulf of Mexico, During the Years 1874-5","Bishop, Nathaniel H. (Nathaniel Holmes)",1837,1902,['en'],29,"{'Canoes and canoeing -- Canada, Eastern -- History -- 19th century', 'Canada, Eastern -- Description and travel', 'Atlantic Coast (U.S.) -- Description and travel', 'Atlantic Coast (Canada) -- Description and travel', 'Canoes and canoeing -- United States -- History -- 19th century', 'United States -- Description and travel', 'Waterways -- Canada, Eastern -- History -- 19th century', 'Waterways -- United States -- History -- 19th century', 'Bishop, Nathaniel H. (Nathaniel Holmes), 1837-1902 -- Travel -- United States', 'Bishop, Nathaniel H. (Nathaniel Holmes), 1837-1902 -- Travel -- Canada, Eastern'}"
+PG10803,"A General History and Collection of Voyages and Travels — Volume 02: Arranged in Systematic Order: Forming a Complete History of the Origin and Progress of Navigation, Discovery, and Commerce, by Sea and Land, from the Earliest Ages to the Present Time","Kerr, Robert",1755,1813,['en'],45,{'Voyages and travels'}
+PG10843,The Mental Life of Monkeys and Apes: A Study of Ideational Behavior,"Yerkes, Robert Mearns",1876,1956,['en'],12,"{'Mammals -- Psychology', 'Animal intelligence', 'Primates -- Psychology'}"
+PG1084,Recipes Tried and True,"First Presbyterian Church (Marion, Ohio). Ladies' Aid Society",,,['en'],43,"{'Cooking, American'}"
+PG10883,"Dio's Rome, Volume 4: An Historical Narrative Originally Composed in Greek During the Reigns of Septimius Severus, Geta and Caracalla, Macrinus, Elagabalus and Alexander Severus: and Now Presented in English Form",Cassius Dio Cocceianus,,,['en'],85,{'Rome -- History'}
+PG10924,"The Lands of the Saracen: Pictures of Palestine, Asia Minor, Sicily, and Spain","Taylor, Bayard",1825,1878,['en'],62,"{'Middle East -- Description and travel', 'Spain -- Description and travel'}"
+PG1092,The Description of Wales,"Giraldus, Cambrensis",,,['en'],92,"{'Wales -- Description and travel', 'Wales -- Social life and customs'}"
+PG10940,"Manners, Customs, and Dress During the Middle Ages and During the Renaissance Period","Jacob, P. L.",1806,1884,['en'],472,"{'Renaissance', 'Clothing and dress', 'Manners and customs', 'Middle Ages'}"
+PG10961,Lawn Tennis for Ladies,"Lambert Chambers, Mrs.",1878,1960,['en'],14,{'Tennis'}
+PG10962,Concerning Animals and Other Matters,"Aitken, Edward Hamilton",1851,1909,['en'],33,"{'Natural history', 'India -- Social life and customs', 'Animal behavior'}"
+PG10969,Ski-running,"Furse, Katharine",1875,1952,['en'],5,{'Skis and skiing'}
+PG10970,Pragmatism,"Murray, D. L. (David Leslie)",1888,1962,['en'],36,{'Pragmatism'}
+PG10985,"The Infant System: For Developing the Intellectual and Moral Powers of all Children, from One to Seven years of Age","Wilderspin, Samuel",1791,1866,['en'],75,{'Education'}
+PG10991,Dogs and All about Them,"Leighton, Robert",1859,1934,['en'],18,{'Dogs'}
+PG11015,"Pantheism, Its Story and Significance: Religions Ancient and Modern","Picton, J. Allanson (James Allanson)",1832,1910,['en'],46,"{'Pantheism', 'Religion'}"
+PG11142,Unitarianism,"Tarrant, W. G. (William George)",1853,1928,['en'],5,"{'Unitarianism -- History', 'Unitarians'}"
+PG11255,"Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume II, Arkansas Narratives, Part 1",United States. Work Projects Administration,,,['en'],158,"{'Slaves -- Arkansas -- Biography', 'Slaves -- Arkansas -- Social conditions', 'Slave narratives -- Arkansas', 'African Americans -- Arkansas -- Biography', 'Slavery -- Arkansas'}"
+PG11256,Social life at Rome in the Age of Cicero,"Fowler, W. Warde (William Warde)",1847,1921,['en'],14,{'Rome -- Social life and customs'}
+PG11262,Cyclopedia of Economics,"Vaknin, Samuel",1961,,['en'],67,{'Economics'}
+PG11271,"The Anti-Slavery Examiner, Part 1 of 4",American Anti-Slavery Society,,,['en'],20,"{'Antislavery movements -- United States -- Periodicals', 'Slavery -- United States -- Periodicals'}"
+PG11276,Civil Government in the United States Considered with Some Reference to Its Origins,"Fiske, John",1842,1901,['en'],6,{'United States -- Politics and government'}
+PG11502,An Englishman Looks at the World: Being a Series of Unrestrained Remarks upon Contemporary Matters,"Wells, H. G. (Herbert George)",1866,1946,['en'],47,"{'Social problems', 'Great Britain -- Social conditions', 'United States -- Social conditions'}"
+PG11587,The School Book of Forestry,"Pack, Charles Lathrop",1857,1937,['en'],89,{'Forests and forestry'}
+PG11709,"Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume II, Arkansas Narratives, Part 6",United States. Work Projects Administration,,,['en'],61,"{'Slaves -- Arkansas -- Biography', 'Slaves -- Arkansas -- Social conditions', 'Slave narratives -- Arkansas', 'African Americans -- Arkansas -- Biography', 'Slavery -- Arkansas'}"
+PG11717,The Palmy Days of Nance Oldfield,"Robins, Edward",1862,1943,['en'],0,"{'Oldfield, Anne, 1683-1730', 'Actresses -- Great Britain -- Biography', 'Theater -- Great Britain -- History -- 18th century'}"
+PG1185,History of the Conflict Between Religion and Science,"Draper, John William",1811,1882,['en'],240,{'Religion and science -- History'}
+PG12006,"A Handbook to Agra and the Taj, Sikandra, Fatehpur-Sikri and the Neighbourhood","Havell, E. B. (Ernest Binfield)",1861,1934,['en'],9,"{'Historic buildings -- India -- Agra Region', 'Agra Region (India) -- History', 'Taj Mahal (Agra, India)', 'Agra (India) -- Guidebooks', 'Art, Mogul', 'Tombs -- India -- Agra Region'}"
+PG12022,A start in life. A journey across America. Fruit farming in California,"Dowsett, C. F. (Charles Finch)",1835,1915,['en'],10,"{'Urbanization -- California', 'Fruit-culture -- California', 'Ethnic groups -- California', 'Agriculture -- California', 'United States -- Description and travel', 'California -- Description and travel', 'Real estate development -- California'}"
+PG12029,George Washington's Rules of Civility: Traced to their Sources and Restored by Moncure D. Conway,"Conway, Moncure Daniel",1832,1907,['en'],49,{'Etiquette'}
+PG12035,Progressive Morality: An Essay in Ethics,"Fowler, Thomas",1832,1904,['en'],2,"{'Ethics, Evolutionary'}"
+PG12052,Half a Century,"Swisshelm, Jane Grey Cannon",1815,1884,['en'],10,"{'Swisshelm, Jane Grey Cannon, 1815-1884', ""Women's rights -- United States"", 'Antislavery movements -- United States'}"
+PG12055,"Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume IX, Mississippi Narratives",United States. Work Projects Administration,,,['en'],66,"{'Slaves -- Mississippi -- Biography', 'African Americans -- Biography', 'Mississippi -- Biography', 'African Americans -- Mississippi -- Interviews'}"
+PG12061,"Dio's Rome, Volume 6: An Historical Narrative Originally Composed in Greek During the Reigns of Septimius Severus, Geta and Caracalla, Macrinus, Elagabalus and Alexander Severus: and Now Presented in English Form",Cassius Dio Cocceianus,,,['en'],67,{'Rome -- History'}
+PG12115,"Discoveries in Australia, Volume 1.: With an Account of the Coasts and Rivers Explored and Surveyed During; The Voyage of H.M.S. Beagle, in the Years 1837-38-39-40-41-42-43.; By Command of the Lords Commissioners of the Admiralty. Also a Narrative; Of Captain Owen Stanley's Visits to the Islands in the Arafura Sea.","Stokes, John Lort",1811,1885,['en'],39,"{'Natural history -- Australia', 'Australia -- Discovery and exploration', 'Australia -- Description and travel'}"
+PG12138,The History of University Education in Maryland: The Johns Hopkins University (1876-1891). With supplementary notes on university extension and the university of the future,"Steiner, Bernard C. (Bernard Christian)",1867,1926,['en'],9,"{'Johns Hopkins University -- History', 'Universities and colleges -- Maryland -- History'}"
+PG12255,"The Egyptian Conception of Immortality: The Ingersoll Lecture, 1911","Reisner, George Andrew",1867,1942,['en'],19,"{'Eschatology, Egyptian', 'Immortality'}"
+PG1225,Faraday as a Discoverer,"Tyndall, John",1820,1893,['en'],60,"{'Physicists -- Great Britain -- Biography', 'Faraday, Michael, 1791-1867'}"
+PG12296,"Camps and Trails in China: A Narrative of Exploration, Adventure, and Sport in Little-Known China","Andrews, Roy Chapman",1884,1960,['en'],119,"{'Natural history -- China -- Yunnan Sheng', 'Hunting -- China -- Yunnan Sheng', 'Andrews, Roy Chapman, 1884-1960', 'China -- Social life and customs -- 1912-1949', 'Andrews, Yvette Borup', 'China -- Description and travel', 'Zoology -- China -- Yunnan Sheng', 'Asiatic Zoölogical Expedition (1916-1917)', 'Yunnan Sheng (China) -- Description and travel', 'Heller, Edmund, 1875-1939'}"
+PG12297,"Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume III, Florida Narratives",United States. Work Projects Administration,,,['en'],121,"{'African Americans -- Florida -- Biography', 'Slave narratives -- Florida', 'Slaves -- United States -- Biography'}"
+PG12298,The Grand Cañon of the Colorado,"Muir, John",1838,1914,['en'],14,{'Grand Canyon (Ariz.) -- Description and travel'}
+PG12299,"The Mechanical Properties of Wood: Including a Discussion of the Factors Affecting the Mechanical Properties, and Methods of Timber Testing","Record, Samuel J. (Samuel James)",1881,1945,['en'],494,"{'Wood -- Testing', 'Wood'}"
+PG12320,Civilization and Beyond: Learning from History,"Nearing, Scott",1883,1983,['en'],6,{'Civilization -- History'}
+PG1233,The Origin and Nature of the Emotions; Miscellaneous Papers,"Crile, George Washington",1864,1943,['en'],37,"{'Psychophysiology', 'Emotions'}"
+PG12363,"The Botanist's Companion, Volume II: Or an Introduction to the Knowledge of Practical Botany, and the Uses of Plants. Either Growing Wild in Great Britain, or Cultivated for the Puroses of Agriculture, Medicine, Rural Oeconomy, or the Arts","Salisbury, William",,1823,['en'],18,{'Plants -- Great Britain'}
+PG12887,Laugh and Live,"Fairbanks, Douglas",1883,1939,['en'],35,{'Happiness'}
+PG1320,"Criminal Psychology: A Manual for Judges, Practitioners, and Students","Gross, Hans",1847,1915,['en'],344,"{'Criminal anthropology', 'Evidence (Law)', 'Psychology, Pathological', 'Criminal psychology'}"
+PG13249,Our Vanishing Wild Life: Its Extermination and Preservation,"Hornaday, William T. (William Temple)",1854,1937,['en'],234,"{'Wildlife conservation -- United States', 'Game-laws -- United States'}"
+PG13442,Henry Hudson: A Brief Statement of His Aims and His Achievements,"Janvier, Thomas A. (Thomas Allibone)",1849,1913,['en'],40,"{'Explorers -- Great Britain -- Biography', 'Hudson, Henry, -1611'}"
+PG1331,ABC's of Science,"Oliver, Charles A. (Charles Alexander)",1858,1932,['en'],26,{'Science -- Study and teaching'}
+PG13443,"Scientific American Supplement, No. 795, March 28, 1891",Various,,,['en'],9,{'Science -- Periodicals'}
+PG13444,Searchlights on Health: The Science of Eugenics,"Jefferis, B. G. (Benjamin Grant)",1851,,['en'],74,"{'Eugenics', 'Marriage', 'Medicine, Popular', 'Sexual ethics', 'Hygiene'}"
+PG13467,Study of Child Life,"Washburne, Marion Foster",1863,,['en'],26,{'Education'}
+PG13602,"Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume IV, Georgia Narratives, Part 1",United States. Work Projects Administration,,,['en'],114,"{'African Americans -- Georgia -- Biography', 'Slaves -- Georgia -- Biography', 'Slave narratives -- Georgia', 'Slavery -- Georgia', 'Slaves -- Georgia -- Social conditions'}"
+PG13775,Every Step in Canning: The Cold-Pack Method,"Gray, Grace Viall",,,['en'],58,{'Canning and preserving'}
+PG13872,"The Ten Pleasures of Marriage: and the Second Part, The Confession of the New Married Couple","Marsh, A.",,,['en'],58,{'Marriage'}
+PG14017,"Clara A. Swain, M.D.","Hoskins, Robert, Mrs.",1837,,['en'],7,"{'Women missionaries -- Biography', 'Swain, Clara A., 1834-1910'}"
+PG14975,Southern Horrors: Lynch Law in All Its Phases,"Wells-Barnett, Ida B.",1862,1931,['en'],2406,{'Lynching'}
+PG16647,An Outline of the Relations between England and Scotland (500-1707),"Rait, Robert S. (Robert Sangster)",1874,1936,['en'],38,"{'England -- Foreign relations -- Scotland', 'Scotland -- Foreign relations -- England'}"
+PG16650,The Complete Home,,,,['en'],32,{'Home economics'}
+PG16655,"Artist and Public, and Other Essays on Art Subjects","Cox, Kenyon",1856,1919,['en'],25,{'Art'}
+PG16657,The Book of Missionary Heroes,"Mathews, Basil",1879,1951,['en'],45,{'Missionaries'}
+PG16658,"Piano and Song: How to Teach, How to Learn, and How to Form a Judgment of Musical Performances","Wieck, Friedrich",1785,1873,['en'],55,"{'Piano -- Instruction and study', 'Singing'}"
+PG16728,"A Catechism of Familiar Things;: Their History, and the Events Which Led to Their Discovery.; With a Short Explanation of Some of the Principal Natural Phenomena. For the Use of Schools and Families. Enlarged and Revised Edition.",Anonymous,,,['en'],87,{'Science -- Popular works'}
+PG16729,"Lay Sermons, Addresses and Reviews","Huxley, Thomas Henry",1825,1895,['en'],27,"{'Science -- Philosophy', 'Science', 'Evolution (Biology)'}"
+PG16736,Books and Culture,"Mabie, Hamilton Wright",1846,1916,['en'],26,{'Books and reading'}
+PG1674,The Narrative of Sojourner Truth,"Gilbert, Olive",,,['en'],85,"{'African American abolitionists -- Biography', 'Truth, Sojourner, -1883', 'African Americans -- Biography', 'Social reformers -- United States -- Biography', 'Abolitionists -- United States -- Biography'}"
+PG16750,The Colored Regulars in the United States Army,"Steward, T. G. (Theophilus Gould)",1843,1924,['en'],25,"{'African American soldiers', 'Spanish-American War, 1898 -- Participation, African American'}"
+PG16863,Lives of the Three Mrs. Judsons,"Willson, Arabella M.",,,['en'],24,"{'Judson, Sarah Boardman, 1803-1845', ""Missionaries' spouses -- Burma -- Biography"", 'Judson, Emily C. (Emily Chubbuck), 1817-1854', 'Judson, Ann Hasseltine, 1789-1826', 'Women missionaries -- Burma -- Biography', 'Women missionaries -- United States -- Biography', 'Judson, Adoniram, 1788-1850'}"
+PG16938,"Pressure, Resistance, and Stability of Earth: American Society of Civil Engineers: Transactions, Paper No. 1174, Volume LXX, December 1910","Meem, J. C.",,,['en'],19,"{'Civil engineering -- Periodicals', 'Soil mechanics'}"
+PG1694,Our Legal Heritage: The First Thousand Years: 600 - 1600: King Aethelbert - Queen Elizabeth,"Reilly, S. A.",,,['en'],22,{'Law -- England -- History'}
+PG17001,An Elementary Course in Synthetic Projective Geometry,"Lehmer, Derrick Norman",1868,1938,['en'],62,"{'Geometry, Projective'}"
+PG1707,A History of Science — Volume 3,"Williams, Edward Huntington",1868,1944,['en'],24,{'Science -- History'}
+PG17124,The Atlas of Ancient and Classical Geography,"Butler, Samuel",1774,1839,['en'],205,"{'Classical geography -- Maps', 'Geography, Ancient -- Maps', 'Atlases'}"
+PG17321,"History of Egypt, Chaldea, Syria, Babylonia, and Assyria in the Light of Recent Discovery","Hall, H. R. (Harry Reginald)",1873,1930,['en'],192,"{'Egypt -- History -- To 332 B.C.', 'History, Ancient'}"
+PG17322,"History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 2 (of 12)","Maspero, G. (Gaston)",1846,1916,['en'],95,"{'Civilization, Ancient', 'Middle East -- History', 'Egypt -- History -- To 640 A.D.', 'History, Ancient'}"
+PG17323,"History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 3 (of 12)","Maspero, G. (Gaston)",1846,1916,['en'],199,"{'Civilization, Ancient', 'Middle East -- History', 'Egypt -- History -- To 640 A.D.', 'History, Ancient'}"
+PG17324,"History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 4 (of 12)","Maspero, G. (Gaston)",1846,1916,['en'],93,"{'Civilization, Ancient', 'Middle East -- History', 'Egypt -- History -- To 640 A.D.', 'History, Ancient'}"
+PG17325,"History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 5 (of 12)","Maspero, G. (Gaston)",1846,1916,['en'],174,"{'Civilization, Ancient', 'Middle East -- History', 'Egypt -- History -- To 640 A.D.', 'History, Ancient'}"
+PG17326,"History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 6 (of 12)","Maspero, G. (Gaston)",1846,1916,['en'],35,"{'Civilization, Ancient', 'Middle East -- History', 'Egypt -- History -- To 640 A.D.', 'History, Ancient'}"
+PG17327,"History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 7 (of 12)","Maspero, G. (Gaston)",1846,1916,['en'],72,"{'Civilization, Ancient', 'Middle East -- History', 'Egypt -- History -- To 640 A.D.', 'History, Ancient'}"
+PG17328,"History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 8 (of 12)","Maspero, G. (Gaston)",1846,1916,['en'],47,"{'Civilization, Ancient', 'Middle East -- History', 'Egypt -- History -- To 640 A.D.', 'History, Ancient'}"
+PG17329,"History of Egypt, Chaldæa, Syria, Babylonia, and Assyria, Volume 9 (of 12)","Maspero, G. (Gaston)",1846,1916,['en'],38,"{'Civilization, Ancient', 'Middle East -- History', 'Egypt -- History -- To 640 A.D.', 'History, Ancient'}"
+PG17330,"History of Egypt From 330 B.C. To the Present Time, Volume 10 (of 12)","Rappoport, A. S. (Angelo Solomon)",1871,1950,['en'],32,{'Egypt -- History'}
+PG17331,"History of Egypt From 330 B.C. To the Present Time, Volume 11 (of 12)","Rappoport, A. S. (Angelo Solomon)",1871,1950,['en'],51,{'Egypt -- History'}
+PG17332,"History of Egypt From 330 B.C. To the Present Time, Volume 12 (of 12)","Rappoport, A. S. (Angelo Solomon)",1871,1950,['en'],45,{'Egypt -- History'}
+PG17366,"Notes on Nursing: What It Is, and What It Is Not","Nightingale, Florence",1820,1910,['en'],332,{'Nursing'}
+PG17385,100 New Yorkers of the 1970s,"Millard, Max",,,['en'],124,{'New York (N.Y.) -- Biography'}
+PG17386,The Leading Facts of English History,"Montgomery, D. H. (David Henry)",1837,1928,['en'],15,{'Great Britain -- History'}
+PG17388,Andrew Marvell,"Birrell, Augustine",1850,1933,['en'],36,"{'Marvell, Andrew, 1621-1678', 'Authors, English -- Early modern, 1500-1700 -- Biography'}"
+PG17389,The Dreamer: A Romantic Rendering of the Life-Story of Edgar Allan Poe,"Stanard, Mary Newton",1865,1929,['en'],19,"{'Poe, Edgar Allan, 1809-1849'}"
+PG17433,Arkansas Governors and United States Senators,"Ferguson, John L. (John Lewis)",1926,2006,['en'],3,"{'Legislators -- United States', 'Governors -- Arkansas', 'Arkansas -- Politics and government'}"
+PG17437,Health and Education,"Kingsley, Charles",1819,1875,['en'],18,"{'Natural history', 'Hygiene'}"
+PG17438,Mrs. Wilson's Cook Book: Numerous New Recipes Based on Present Economic Conditions,"Wilson, Mary A.",,,['en'],59,"{'Cooking, American'}"
+PG17475,"The Lobster Fishery of Maine: Bulletin of the United States Fish Commission, Vol. 19, Pages 241-265, 1899","Cobb, John N. (John Nathan)",1868,1930,['en'],11,{'Lobster fisheries -- Maine'}
+PG17575,How to Camp Out,"Gould, John Mead",1839,1930,['en'],112,{'Camping'}
+PG17592,"A Narrative of the Expedition to Dongola and Sennaar: Under the Command of His Excellence Ismael Pasha, undertaken; by Order of His Highness Mehemmed Ali Pasha, Viceroy of; Egypt, By An American In The Service Of The Viceroy","English, George Bethune",1787,1828,['en'],17,"{'Sudan -- History -- 1821-1881', 'Dunqulah (Sudan) -- History', 'Sudan -- History -- To 1821', 'Sennar (Sudan) -- History'}"
+PG17712,The Moon: A Full Description and Map of its Principal Physical Features,"Elger, Thomas Gwyn",1838,1897,['en'],14,{'Moon'}
+PG17881,From the Bottom Up: The Life Story of Alexander Irvine,"Irvine, Alexander",1863,1941,['en'],29,"{'Socialism', 'Irvine, Alexander, 1863-1941'}"
+PG18096,The Social History of Smoking,"Apperson, George Latimer",1857,1937,['en'],36,{'Smoking'}
+PG18097,Public School Domestic Science,"Hoodless, Adelaide",1858,1910,['en'],24,"{'Cooking -- Study and teaching (Secondary)', 'Home economics'}"
+PG18189,Growing Nuts in the North: A Personal Story of the Author's Experience of 33 Years with Nut Culture in Minnesota and Wisconsin,"Weschcke, Carl",1894,1973,['en'],34,"{'Nut trees -- Wisconsin', 'Nuts -- Wisconsin', 'Nut trees -- Minnesota', 'Nuts -- Minnesota'}"
+PG18213,"The Story of the Great War, Volume III (of 12): The War Begins, Invasion of Belgium, Battle of the Marne",,,,['en'],16,"{'World War, 1914-1918'}"
+PG18214,Our Friend the Dog,"Maeterlinck, Maurice",1862,1949,['en'],64,{'Dogs'}
+PG18229,"Transactions of the American Society of Civil Engineers, Vol. LXVIII, Sept. 1910: The New York Tunnel Extension of the Pennsylvania Railroad.; Paper No. 1150","Raymond, Charles W.",,,['en'],16,"{'Civil engineering -- Periodicals', 'Railroad tunnels -- Design and construction'}"
+PG18274,A Book of Natural History: Young Folks' Library Volume XIV.,,,,['en'],49,{'Zoology'}
+PG18394,Cheerfulness as a Life Power,"Marden, Orison Swett",1848,1924,['en'],44,{'Cheerfulness'}
+PG18397,"Socialism and Modern Science (Darwin, Spencer, Marx)","Ferri, Enrico",1856,1929,['en'],15,"{'Socialism', 'Evolution', 'Spencer, Herbert, 1820-1903'}"
+PG18431,"Other Worlds: Their Nature, Possibilities and Habitability in the Light of the Latest Discoveries","Serviss, Garrett Putman",1851,1929,['en'],35,"{'Astronomy', 'Planets'}"
+PG18432,"Fowler's Household Helps: Over 300 Useful and Valuable Helps About the Home, Carefully Compiled and Arranged in Convenient Form for Frequent Use","Fowler, Arthur L.",1881,,['en'],22,"{'Formulas, recipes, etc.', 'Home economics'}"
+PG18435,"Good Things to Eat, as Suggested by Rufus: A Collection of Practical Recipes for Preparing Meats, Game, Fowl, Fish, Puddings, Pastries, Etc.","Estes, Rufus",1857,,['en'],123,"{'Cooking, American'}"
+PG18439,What the Mother of a Deaf Child Ought to Know,"Wright, John Dutton",1866,1952,['en'],9,{'Deaf children'}
+PG18467,"The People's Common Sense Medical Adviser in Plain English: or, Medicine Simplified, 54th ed., One Million, Six Hundred; and Fifty Thousand","Pierce, Ray Vaughn",1840,1914,['en'],151,"{'Medicine, Popular'}"
+PG19564,The Pirates' Who's Who: Giving Particulars Of The Lives and Deaths Of The Pirates And Buccaneers,"Gosse, Philip",1879,1959,['en'],199,{'Pirates'}
+PG23434,An Elementary Study of Insects,"Haseman, Leonard",1884,1969,['en'],116,{'Insects'}
+PG27250,What I Saw in America,"Chesterton, G. K. (Gilbert Keith)",1874,1936,['en'],259,"{'National characteristics, American', 'Chesterton, G. K. (Gilbert Keith), 1874-1936 -- Travel -- United States', 'United States -- Civilization -- 1918-1945', 'United States -- Social life and customs -- 1918-1945', 'United States -- Description and travel'}"
+PG27203,Self Mastery Through Conscious Autosuggestion,"Coué, Emile",1857,1926,['en'],200,{'Mental suggestion'}
+PG2755,Murat: Celebrated Crimes,"Dumas, Alexandre",1802,1870,['en'],86,{'Crime'}
+PG28575,"A Terminal Market System: New York's Most Urgent Need: Some Observations, Comments, and Comparisons of European Markets","Black, Madeleine",,,['en'],5,"{'Markets', 'Markets -- New York (State) -- New York'}"
+PG28576,Cutting It Out: How to get on the waterwagon and stay there,"Blythe, Samuel G. (Samuel George)",1868,1947,['en'],4,"{'Alcoholism', 'Drinking of alcoholic beverages'}"
+PG30249,Ways of Nature,"Burroughs, John",1837,1921,['en'],77,"{'Natural history -- Outdoor books', 'Animal behavior', 'Animal intelligence'}"
+PG30429,Was Man Created?,"Mott, Henry A. (Henry Augustus)",1852,1896,['en'],13,"{'Human beings -- Origin', 'Natural selection', 'Creation', 'Evolution'}"
+PG3042,The Hispanic Nations of the New World: A Chronicle of Our Southern Neighbors,"Shepherd, William R. (William Robert)",1871,1934,['en'],13,"{'Latin America -- History', 'America'}"
+PG30472,Needlework As Art,"Alford, Marianne Margaret Compton Cust, Viscountess",1817,1888,['en'],108,{'Needlework'}
+PG30511,"Birds, Illustrated by Color Photography, Vol. 2, No. 3: September 1897",Various,,,['en'],18,"{'Natural history -- Periodicals', 'Zoological illustration -- Periodicals', 'Birds -- Periodicals'}"
+PG30522,"The Etiquette of Engagement and Marriage: Describing Modern Manners and Customs of Courtship and Marriage, and giving Full Details regarding the Wedding Ceremony and Arrangements","Devereux, G. R. M.",,,['en'],17,"{'Courtship', 'Wedding etiquette'}"
+PG30533,Genera and Subgenera of Chipmunks,"White, John A.",,,['en'],10,{'Chipmunks'}
+PG30541,"A Treatise on Anatomy, Physiology, and Hygiene (Revised Edition)","Cutter, Calvin",1807,1872,['en'],67,"{'Hygiene', 'Physiology'}"
+PG30975,"Soil Culture: Containing a Comprehensive View of Agriculture, Horticulture, Pomology, Domestic Animals, Rural Economy, and Agricultural Literature","Walden, J. H.",,,['en'],44,"{'Agriculture -- Handbooks, manuals, etc.'}"
+PG30999,A New Chipmunk (Genus Eutamias) from the Black Hills,"White, John A.",,,['en'],9,"{'Chipmunks', 'Mammals -- South Dakota'}"
+PG31278,"The History of Freedom, and Other Essays","Acton, John Emerich Edward Dalberg Acton, Baron",1834,1902,['en'],70,"{'History -- Philosophy', 'Liberty -- History', 'History'}"
+PG31279,A Review of Hoffman's Race Traits and Tendencies of the American Negro: The American Negro Academy. Occasional Papers No. 1,"Miller, Kelly",1863,1939,['en'],10,"{'Hoffman, Frederick L. (Frederick Ludwig), 1865-1946. Race traits and tendencies of the American Negro', 'African Americans'}"
+PG3127,Being a Boy,"Warner, Charles Dudley",1829,1900,['en'],22,"{'Autobiographies', 'Country life', 'New England', 'Boys -- Biography'}"
+PG31280,"Mammals of the Grand Mesa, Colorado","Anderson, Sydney",1927,,['en'],11,{'Mammals -- Colorado'}
+PG31328,"The Early Negro Convention Movement: The American Negro Academy, Occasional Papers No. 9","Cromwell, John Wesley",1846,1927,['en'],16,"{'Antislavery movements -- United States', 'African Americans -- Colonization'}"
+PG31329,"Encyclopaedia Britannica, 11th Edition, ""Chicago, University of"" to ""Chiton"": Volume 6, Slice 2",Various,,,['en'],60,{'Encyclopedias and dictionaries'}
+PG3132,In the Wilderness,"Warner, Charles Dudley",1829,1900,['en'],59,"{'Natural history -- New York (State) -- Adirondack Mountains', 'Warner, Charles Dudley, 1829-1900 -- Homes and haunts -- New York (State) -- Adirondack Mountains', 'Adirondack Mountains (N.Y.) -- Description and travel', 'Wilderness areas -- New York (State) -- Adirondack Mountains', 'Adirondack Mountains (N.Y.) -- Biography', 'Adirondack Mountains (N.Y.) -- Intellectual life -- 19th century', 'Authors, American -- 19th century -- Biography'}"
+PG31330,"Modern Industrialism and the Negroes of the United States: The American Negro Academy, Occasional Papers No. 12","Grimké, Archibald Henry",1849,1930,['en'],8,"{'African Americans -- Economic conditions', 'African Americans -- Employment', 'Working class -- United States'}"
+PG31331,"The Ballotless Victim of One-Party Governments: The American Negro Academy, Occasional Papers No. 16","Grimké, Archibald Henry",1849,1930,['en'],6,"{'African Americans -- Suffrage', 'African Americans -- Legal status, laws, etc.'}"
+PG31332,A Journal of Impressions in Belgium,"Sinclair, May",1863,1946,['en'],18,"{'World War, 1914-1918 -- Personal narratives'}"
+PG31333,The Disfranchisement of the Negro: The American Negro Academy. Occasional Papers No. 6,"Love, John L.",,,['en'],10,"{'African Americans -- Suffrage', 'United States -- Politics and government'}"
+PG31334,"Descriptions of Two Species of Frogs, Genus Ptychohyla: Studies of American Hylid Frogs, V","Duellman, William Edward",1930,,['en'],6,{'Frogs'}
+PG31335,History of the Constitutions of Iowa,"Shambaugh, Benjamin Franklin",1871,1940,['en'],18,"{'Constitutions -- Iowa', 'Constitutional history -- Iowa'}"
+PG3135,My Summer in a Garden,"Warner, Charles Dudley",1829,1900,['en'],28,{'Gardening'}
+PG31423,"In-Door Gardening for Every Week in the Year: Showing the Most Successful Treatment for all Plants Cultivated in the Greenhouse, Conservatory, Stove, Pit, Orchid, and Forcing-house","Keane, William, gardener",,,['en'],13,{'Greenhouses'}
+PG31621,Description of a New Softshell Turtle from the Southeastern United States,"Webb, Robert G.",,,['en'],19,{'Turtles'}
+PG31627,Volcanoes: Past and Present,"Hull, Edward",1829,1917,['en'],18,"{'Volcanoes', 'Igneous rocks'}"
+PG31674,"Comments on the Taxonomic Status of Apodemus peninsulae, with Description of a New Subspecies from North China","Jones, J. Knox",1929,1992,['en'],15,"{'Mammals -- China', 'Mice', 'Apodemus peninsulae'}"
+PG31729,"The Apple: The Kansas Apple, the Big Red Apple; the Luscious, Red-Cheeked First Love of the Farmer's Boy; the Healthful, Hearty Heart of the Darling Dumpling. What It Is; How to Grow It; Its Commercial and Economic Importance; How to Utilize It.",,,,['en'],12,{'Apples'}
+PG34098,"Science of Trapping: Describes the Fur Bearing Animals, Their Nature, Habits and Distribution, with Practical Methods for Their Capture","Kreps, Elmer Harry",1880,,['en'],63,{'Trapping'}
+PG37350,The Ancestry of Modern Amphibia: A Review of the Evidence,"Eaton, Theodore H. (Theodore Hildreth)",1907,1981,['en'],31,"{'Amphibians, Fossil', 'Amphibians -- Anatomy'}"
+PG50175,Bird Watching,"Selous, Edmund",1857,1934,['en'],18,"{'Bird watching', 'Birds'}"
+PG43167,"How to Know the Ferns: A Guide to the Names, Haunts and Habitats of Our Common Ferns","Parsons, Frances Theodora",1861,1952,['en'],37,{'Ferns -- United States -- Identification'}
+PG50195,Practical Etiquette,"Klein, Cora C.",,,['en'],18,{'Etiquette'}
+PG50207,Tea-Blending as a Fine Art,"Walsh, Joseph M.",,,['en'],24,{'Tea'}
+PG50220,"The Railway Library, 1909: A Collection of Noteworthy Chapters, Addresses, and Papers Relating to Railways, Mostly Published During the Year",,,,['en'],17,{'Railroads -- United States -- Periodicals'}
+PG50249,Orkney and Shetland Folk 872-1350,"Johnston, Alfred Wintle",,,['en'],17,"{'Ethnology -- Scotland -- Orkney', 'Ethnology -- Scotland -- Shetland'}"
+PG50254,"Treatment of the diseases of the eye, by means of prussic acid vapour, and other medicinal agents","Turnbull, Alexander",1794,1881,['en'],13,"{'Eye -- Diseases', 'Hydrocyanic acid -- Therapeutic use'}"
+PG50289,Social Environment and Moral Progress,"Wallace, Alfred Russel",1823,1913,['en'],13,"{'Natural selection', 'Social ethics'}"
+PG50370,"Charles Sumner: his complete works, volume 17 (of 20)","Sumner, Charles",1811,1874,['en'],18,"{'Speeches, addresses, etc., American', 'Slavery -- United States'}"
+PG52213,In the Levant: Twenty Fifth Impression,"Warner, Charles Dudley",1829,1900,['en'],18,{'Middle East -- Description and travel'}
+PG52227,"Piece Goods Manual: Fabrics described; textile, knit goods, weaving terms, etc., explained; with notes on the classification of samples.","Blanco, A. E.",1877,1945,['en'],26,{'Textile fabrics'}
+PG52250,A Nurse's Life in War and Peace,"Laurence, E. C. (Eleanor Constance)",,,['en'],16,"{'South African War, 1899-1902 -- Medical care', 'Military nursing', 'Nursing -- Great Britain'}"
+PG52297,Medical Women: Two Essays,"Jex-Blake, Sophia",1840,1912,['en'],10,{'Women in medicine'}
+PG52303,The History of Lumsden's Horse: A Complete Record of the Corps from Its Formation to Its Disbandment,,,,['en'],39,"{""Great Britain. Army. Lumsden's Horse"", 'South African War, 1899-1902 -- Regimental histories -- Great Britain'}"
+PG52308,The Tunnellers of Holzminden (with a side-issue),"Durnford, H. G. (Hugh George)",,,['en'],24,"{'Prisoner-of-war escapes', 'World War, 1914-1918 -- Prisoners and prisons, German'}"
+PG52312,The Methods and Scope of Genetics: An inaugural lecture delivered 23 October 1908,"Bateson, William",1861,1926,['en'],30,"{'Heredity', 'Genetics'}"
+PG52314,Nooks and Corners: being the companion volume to 'From Kitchen to Garret',"Panton, J. E. (Jane Ellen)",1847,1923,['en'],25,{'Home economics'}
+PG5268,Courts and Criminals,"Train, Arthur Cheney",1875,1945,['en'],82,"{'Crime -- United States', 'Criminals -- United States', 'Criminal justice, Administration of -- United States'}"
+PG60631,A Modern Zoroastrian,"Laing, S. (Samuel)",1812,1897,['en'],28,"{'Zoroastrianism', 'Religion', 'Science'}"
+PG60755,"Harper's Round Table, February 16, 1897",Various,,,['en'],7,"{""Children's periodicals""}"
+PG60759,The Englishman's House: A Practical Guide for Selecting and Building a House,"Richardson, C. J. (Charles James)",1806,1871,['en'],27,"{'Architecture, Domestic'}"
+PG60760,The South Country,"Thomas, Edward",1878,1917,['en'],49,"{'England -- Description and travel', 'Thomas, Edward, 1878-1917 -- Travel -- England', 'Natural history -- England'}"
+PG60773,"The Philosophy of Health; Volume 1 (of 2): or, an exposition of the physical and mental constitution of man","Smith, Southwood",1788,1861,['en'],13,"{'Hygiene', 'Physiology'}"
+PG60774,History of the Reformation in Europe in the Time of Calvin. Vol. 3 (of 8),"Merle d'Aubigné, J. H. (Jean Henri)",1794,1872,['en'],18,{'Reformation'}
+PG6080,School History of North Carolina : from 1584 to the present time,"Moore, John W. (John Wheeler)",1833,1906,['en'],2,{'North Carolina -- History'}
+PG60815,Christianity Viewed in Relation to the Present State of Society and Opinion.,"Guizot, François",1787,1874,['en'],11,"{'Church history -- 19th century', 'Christianity'}"
+PG60832,Essays on Educational Reformers,"Quick, Robert Hebert",1831,1891,['en'],35,"{'Education -- History', 'Educators'}"
+PG60867,History of the Late Polish Revolution and the Events of the Campaign,"Hordynski, Joseph",,,['en'],20,"{'Poland -- History -- Revolution, 1830-1832'}"
+PG60893,Thinking and learning to think,"Schaeffer, Nathan Christ",1849,1919,['en'],120,{'Thought and thinking'}
+PG8501,"Ice Creams, Water Ices, Frozen Puddings Together with Refreshments for all Social Affairs","Rorer, S. T.",1849,1937,['en'],46,"{'Ice cream, ices, etc.', 'Frozen desserts', 'Cooking, American'}"
+PG8502,Common Diseases of Farm Animals,"Craig, Robert Alexander",1872,,['en'],61,{'Veterinary medicine'}
+PG8504,"Scientific American Supplement, No. 358, November 11, 1882",Various,,,['en'],9,{'Science -- Periodicals'}
+PG8507,Ten Great Events in History,"Johonnot, James",1823,1888,['en'],45,"{'Readers', 'History'}"
+PG8508,The Evolution of Man Scientifically Disproved in 50 Arguments,"Williams, William A. (William Asbury)",1854,1938,['en'],34,{'Evolution'}
+PG8536,"Philip Gilbert Hamerton: An Autobiography, 1834-1858, and a Memoir by His Wife, 1858-1894","Hamerton, Eugénie",1838,,['en'],16,"{'Art critics -- Great Britain -- Biography', 'Hamerton, Philip Gilbert, 1834-1894'}"
+PG853,The Confutatio Pontificia,,,,['en'],24,{'Protestantism'}
+PG8542,"Things Mother Used to Make: A Collection of Old Time Recipes, Some Nearly One Hundred Years Old and Never Published Before","Gurney, Lydia Maria",,,['en'],74,"{'Cooking, American'}"
+PG8555,Initiation into Literature,"Faguet, Émile",1847,1916,['en'],9,{'Literature -- History and criticism'}
+PG8660,Woman and the New Race,"Sanger, Margaret",1879,1966,['en'],82,{'Birth control'}
+PG8685,"Memoirs of Henry Hunt, Esq. — Volume 1","Hunt, Henry",1773,1835,['en'],4,"{'Hunt, Henry, 1773-1835', 'Social reformers -- Great Britain -- Biography'}"
+PG8687,"Scientific American Supplement, No. 362, December 9, 1882",Various,,,['en'],9,{'Science -- Periodicals'}
+PG8690,American Institutions and Their Influence,"Tocqueville, Alexis de",1805,1859,['en'],52,"{'Democracy', 'United States -- Politics and government'}"
+PG8700,The Evolution of Man,"Haeckel, Ernst",1834,1919,['en'],160,"{'Human beings -- Origin', 'Embryology, Human', 'Evolution', 'Anatomy, Comparative'}"
+PG8866,Wild Flowers Worth Knowing,"Blanchan, Neltje",1865,1918,['en'],172,{'Wild flowers -- North America'}
+PG886,Letters from the Cape,"Duff Gordon, Lucie, Lady",1821,1869,['en'],51,{'Cape of Good Hope (South Africa) -- Description and travel'}
+PG8884,Travels in Syria and the Holy Land,"Burckhardt, John Lewis",1784,1817,['en'],42,"{'Palestine -- Description and travel', 'Syria -- Description and travel'}"
+PG8896,"Outlines of Universal History, Designed as a Text-book and for Private Reading","Fisher, George Park",1827,1909,['en'],7,{'World history'}
+PG88,Price/Cost Indexes from 1875 to 1989; Estimated to 2010,"Hart, Michael",1947,2011,['en'],30,{'Cost and standard of living'}
+PG8900,The London and Country Brewer,Anonymous,,,['en'],52,"{'Beer -- Great Britain', 'Malt liquors -- Early works to 1800', 'Beer -- Early works to 1800', 'Brewing -- Early works to 1800'}"
+PG8908,The Ignatian Epistles Entirely Spurious: A Reply to the Right Rev. Dr. Lightfoot,"Killen, W. D. (William Dool)",1806,1902,['en'],23,"{'Ignatius, Saint, Bishop of Antioch, -approximately 110 -- Authorship', 'Ignatius, Saint, Bishop of Antioch, -approximately 110. Correspondence. Polyglot', 'Lightfoot, Joseph Barber, 1828-1889'}"
+PG8947,"The Atlantic Monthly, Volume 01, No. 03, January, 1858: A Magazine of Literature, Art, and Politics",Various,,,['en'],3,{'American periodicals'}
+PG896,"The Jubilee of the Constitution: Delivered at New York, April 30, 1839, Before the New York Historical Society","Adams, John Quincy",1767,1848,['en'],23,"{'United States. Constitution', 'United States -- Politics and government -- 1783-1789', 'Washington, George, 1732-1799 -- Anniversaries, etc.', 'United States -- Politics and government -- 1775-1783'}"
+PG8996,Practical Suggestions for Mother and Housewife,"Miller, Marion Mills",1864,1949,['en'],43,{'Home economics'}
+PG89,"North American Free Trade Agreement, 1992 Oct. 7 Tariff Phasing Descriptions",Canada,,,['en'],39,"{'Foreign trade regulation -- North America', 'Tariff -- Law and legislation -- North America', 'Free trade -- United States', 'Canada. Treaties, etc. 1992 Oct. 7', 'Free trade -- North America', 'Free trade -- Canada', 'Free trade -- Mexico'}"
+PG8,Abraham Lincoln's Second Inaugural Address,"Lincoln, Abraham",1809,1865,['en'],98,"{'United States -- Politics and government -- 1861-1865', 'Presidents -- United States -- Inaugural addresses'}"
+PG907,"Flying Machines: Construction and Operation: A Practical Book Which Shows, in Illustrations, Working Plans and Text, How to Build and Navigate the Modern Airship","Chanute, Octave",1832,1910,['en'],74,"{'Flying-machines', 'Aeronautics'}"
+PG9089,Handel,"Dent, Edward J. (Edward Joseph)",1876,1957,['en'],20,"{'Composers -- Biography', 'Handel, George Frideric, 1685-1759'}"
+PG9100,My Double Life: The Memoirs of Sarah Bernhardt,"Bernhardt, Sarah",1844,1923,['en'],70,"{'Actors -- France -- Biography', 'Bernhardt, Sarah, 1844-1923'}"
+PG9101,"Domestic Cookery, Useful Receipts, and Hints to Young Housekeepers","Lea, Elizabeth E. (Elizabeth Ellicott)",1793,1858,['en'],32,"{'Formulas, recipes, etc.', 'Cooking, American'}"
+PG9104,The Naval War of 1812: Or the History of the United States Navy during the Last War with Great Britain to Which Is Appended an Account of the Battle of New Orleans,"Roosevelt, Theodore",1858,1919,['en'],90,"{'United States -- History -- War of 1812 -- Naval operations', 'New Orleans, Battle of, New Orleans, La., 1815', 'United States. Navy -- History -- War of 1812'}"
+PG9163,"Scientific American Supplement, No. 417, December 29, 1883",Various,,,['en'],27,{'Science -- Periodicals'}
+PG9171,Slavery Ordained of God,"Ross, F. A. (Frederick Augustus)",1796,1883,['en'],21,"{'Slavery and the church -- United States', 'Slavery -- Justification', 'Slavery and the church -- Presbyterian Church', 'Slavery -- United States'}"
+PG9172,A Study of Association in Insanity,"Kent, Grace Helen",1875,1973,['en'],43,"{'Association of ideas', 'Psychology, Pathological'}"
+PG9173,"Youth: Its Education, Regimen, and Hygiene","Hall, G. Stanley (Granville Stanley)",1844,1924,['en'],68,"{'Educational psychology', 'Adolescence', 'Children -- Health and hygiene'}"
+PG9294,"The Exploring Expedition to the Rocky Mountains, Oregon and California: To which is Added a Description of the Physical Geography of California, with Recent Notices of the Gold Region from the Latest and Most Authentic Sources","Frémont, John Charles",1813,1890,['en'],29,"{'California -- Gold discoveries', 'West (U.S.) -- Description and travel', 'Rocky Mountains', 'Pacific States -- Description and travel', 'United States -- Discovery and exploration'}"
+PG9307,Life: Its True Genesis,"Flaccus, Horatius",1816,1885,['en'],13,"{'Creation', 'Biology', 'Religion and science'}"
+PG9308,"New York at the Louisiana Purchase Exposition, St. Louis 1904: Report of the New York State Commission","Ellis, DeLancey M.",,,['en'],21,"{'Louisiana Purchase Exposition (1904 : Saint Louis, Mo.) -- New York (State)'}"
+PG9389,"The Atlantic Monthly, Volume 05, No. 29, March, 1860: A Magazine of Literature, Art, and Politics",Various,,,['en'],2,{'American periodicals'}
+PG939,"The Life of Thomas Telford, Civil Engineer: With an Introductory History of Roads and Travelling in Great Britain","Smiles, Samuel",1812,1904,['en'],17,"{'Civil engineers -- Great Britain -- Biography', 'Roads -- Great Britain', 'Telford, Thomas, 1757-1834'}"
+PG9591,Old Portraits and Modern Sketches: Part 1 from Volume VI of The Works of John Greenleaf Whittier,"Whittier, John Greenleaf",1807,1892,['en'],9,{'Biography'}
+PG9501,Concerning Cats: My Own and Some Others,"Winslow, Helen M. (Helen Maria)",1851,1938,['en'],21,{'Cats'}
+PG9592,Personal Sketches and Tributes: Part 2 from Volume VI of The Works of John Greenleaf Whittier,"Whittier, John Greenleaf",1807,1892,['en'],7,{'Biography'}
+PG9593,Historical Papers: Part 3 from Volume VI of The Works of John Greenleaf Whittier,"Whittier, John Greenleaf",1807,1892,['en'],4,{'History'}
+PG9594,"The Works of John Greenleaf Whittier, Volume VI. (Of VII): Old Portraits and Modern Sketches, Plus Personal Sketches and Tributes and Historical Papers","Whittier, John Greenleaf",1807,1892,['en'],12,"{'Biography', 'History'}"
+PG9595,"The Conflict with Slavery: Part 1 from The Works of John Greenleaf Whittier, Volume VII","Whittier, John Greenleaf",1807,1892,['en'],1,"{'Antislavery movements -- United States', 'Slavery -- United States'}"
+PG9596,"Reform and Politics: Part 2 from The Works of John Greenleaf Whittier, Volume VII","Whittier, John Greenleaf",1807,1892,['en'],3,{'United States -- Politics and government'}
+PG9607,From Boyhood to Manhood: Life of Benjamin Franklin,"Thayer, William Makepeace",1820,1898,['en'],14,"{'Franklin, Benjamin, 1706-1790'}"
+PG9896,"My Days of Adventure: The Fall of France, 1870-71","Vizetelly, Ernest Alfred",1853,1922,['en'],4,"{'Franco-Prussian War, 1870-1871 -- Personal narratives'}"
+PG979,Heroes of the Telegraph,"Munro, John",1849,1930,['en'],59,{'Telegraph -- History'}
+PG9915,An Appeal to the Christian Women of the South,"Grimké, Angelina Emily",1805,1879,['en'],25,{'Slavery -- United States'}
+PG9916,Spalding's Baseball Guide and Official League Book for 1895,,,,['en'],15,{'Baseball -- Periodicals'}
+PG9917,"Your Child: Today and Tomorrow: Some Problems for Parents Concerning Punishment, Reasoning, Lies, Ideals and Ambitions, Fear, Work and Play, Imagination, Social Activities, Obedience, Adolescence, Will, Heredity","Gruenberg, Sidonie Matsner",1881,1974,['en'],21,{'Children'}
+PG9929,"The Great Events by Famous Historians, Volume 12",,,,['en'],30,{'World history'}
+PG9935,Woman's Institute Library of Cookery. Volume 1: Essentials of Cookery; Cereals; Bread; Hot Breads,Woman's Institute of Domestic Arts and Sciences,,,['en'],54,"{'Cooking, American'}"
+PG9936,"Woman's Institute Library of Cookery. Volume 2: Milk, Butter and Cheese; Eggs; Vegetables",Woman's Institute of Domestic Arts and Sciences,,,['en'],57,"{'Cooking, American'}"
+PG9937,Woman's Institute Library of Cookery. Volume 3: Soup; Meat; Poultry and Game; Fish and Shell Fish,Woman's Institute of Domestic Arts and Sciences,,,['en'],45,"{'Cooking, American'}"
+PG9938,"Woman's Institute Library of Cookery. Volume 4: Salads and Sandwiches; Cold and Frozen Desserts; Cakes, Cookies and Puddings; Pastries and Pies",Woman's Institute of Domestic Arts and Sciences,,,['en'],89,"{'Cooking, American'}"
+PG9939,"Woman's Institute Library of Cookery. Volume 5: Fruit and Fruit Desserts; Canning and Drying; Jelly Making, Preserving and Pickling; Confections; Beverages; the Planning of Meals",Woman's Institute of Domestic Arts and Sciences,,,['en'],60,"{'Cooking, American'}"
+PG9975,Paris War Days: Diary of an American,"Barnard, Charles Inman",1850,1942,['en'],13,"{'Paris (France) -- History -- 1914-1918', 'World War, 1914-1918 -- Personal narratives'}"
+PG9997,"France and England in North America, Part III: The Discovery of the Great West (1870)","Parkman, Francis",1823,1893,['en'],6,{'Canada -- History -- To 1763 (New France)'}
+PG9999,"Harriet, the Moses of Her People","Bradford, Sarah H. (Sarah Hopkins)",1818,1912,['en'],65,"{'Underground Railroad', 'African Americans -- Biography', 'Tubman, Harriet, 1822-1913', 'Slaves -- United States -- Biography'}"
+PG9,Abraham Lincoln's First Inaugural Address,"Lincoln, Abraham",1809,1865,['en'],311,"{'United States -- Politics and government -- 1861-1865', 'Presidents -- United States -- Inaugural addresses'}"
